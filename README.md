@@ -1,1 +1,1 @@
-QuickImage update site
+QuickImage2 update site

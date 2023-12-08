@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='QuickImage2 2.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
+<repository name='QuickImage2 2.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1702027107113'/>
+    <property name='p2.timestamp' value='1702027637546'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='../../../releases/2.0.0.202312080918'/>
+    <child location='../../../releases/2.0.0.202312080926'/>
   </children>
 </repository>
